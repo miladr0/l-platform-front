@@ -1,0 +1,1 @@
+export const apiPath = process.env.RAZZLE_API_PATH
