@@ -13,7 +13,7 @@
     "axios": "^0.16.2",
     "express": "^4.15.2",
     "history": "^4.6.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.26",
     "qs": "^6.7.0",
     "query-string": "^6.8.2",
